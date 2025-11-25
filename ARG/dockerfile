@@ -4,3 +4,4 @@ ARG COURSE= "DOCKER" \
     TRAINER= "SIVAKUMAR" \
 RUN echo "Trainer:  ${TRAINER}, Course: ${DOCKER}, Version: ${VERSION}"
 CMD ["sleep", "10"] 
+
