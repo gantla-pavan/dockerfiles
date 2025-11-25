@@ -3,5 +3,3 @@ ENV COURSE="DOCKER"\
     TRAINER="SIVAKUMAR"\
     DURATION="10HOURS"
 CMD ["sleep", "10"]
-
-
